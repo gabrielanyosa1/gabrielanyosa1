@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriel Anyosa! 👋
+# Hi there! I'm Gabriel Anyosa 👋
 
 I'm driven by a curiosity to understand and solve complex problems, often diving deep into the 'why' and 'how' behind technologies and systems. Rather than focusing just on the surface application, I enjoy exploring the underlying nuances, whether it's:
 
