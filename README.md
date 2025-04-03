@@ -2,7 +2,7 @@
 
 I'm driven by a curiosity to understand and solve complex problems, often diving deep into the 'why' and 'how' behind technologies and systems. Rather than focusing just on the surface application, I enjoy exploring the underlying nuances, whether it's:
 
-* 🧠 The intricacies of **AI/ML models**, from on-device optimization (like Whisper) to analyzing large-scale behavioral patterns.
+* 🧠 The intricacies of **AI/ML models**, from on-device optimization (like OpenAI's Whisper) to analyzing large-scale behavioral patterns.
 * ⚙️ Tackling **performance at scale**. I believe optimizing hardware usage (like with **GPU acceleration via CUDA/Metal**) and memory management is fundamental, necessary for large datasets, and an interesting challenge in and of itself.
 * 📊 Understanding **database internals** and query execution, partly fueled by an interest in how systems interact with **OS-level resources** for peak efficiency.
 * 🛠️ **Designing and building end-to-end data engineering pipelines** (ETL/ELT), for complex or heterogeneous data sources, creating **robust, high-quality datasets** that enable efficient downstream analysis, often involving **comparative benchmarking** (e.g., MongoDB vs. DuckDB) to select the right tools.
